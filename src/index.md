@@ -14,7 +14,7 @@
 
 * JJ1ILE
 
-### DCR (Digital City Radio)
+### DCR (Digital Convenience Radio)
 
 * ねりまJK360
 
