@@ -1,0 +1,6 @@
+[book]
+authors = ["Junichi Kakisako"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "kironono.com"
